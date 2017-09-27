@@ -1,0 +1,69 @@
+#rectangle1{
+  width: 75%;
+height: 5%;
+background-color:#2ECC71;
+position: absolute;
+z-index: 10;
+}
+#rectangle2{
+width:25%;
+height: 5%;
+background-color:#2980B9;
+position: absolute;
+left: 75%;
+z-index: 9;
+}
+
+#rectangle3{
+position: absolute;
+background-color:#E74C3C;
+width: 30%;
+height: 15%;
+z-index:8;
+}
+
+#rectangle4{
+  position: absolute;
+  background-color:#E67E22;
+  width: 65%;
+  height: 10%;
+  z-index:7;
+}
+
+#rectangle5{
+  position: absolute;
+  background-color:#95A5A6;
+  width: 100%;
+  height: 10%;
+  z-index:6;
+}
+
+#rectangle6{
+  position: absolute;
+  background-color:#F39C12;
+  width: 55%;
+  height: 15%;
+  z-index:5;
+}
+
+#rectangle7{
+  position: absolute;
+  background-color:#16A085;
+  width: 80%;
+  height: 15%;
+  z-index:4;
+}
+#rectangle8{
+  position: absolute;
+  background-color:#D35400;
+  width: 100%;
+  height: 15%;
+  z-index:3;
+}
+#rectangle9{
+  position: absolute;
+  background-color:#2C3E50;
+  width: 100%;
+  height: 30%;
+  z-index:2;
+}
